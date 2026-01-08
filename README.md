@@ -1,4 +1,3 @@
-Subject: README.md – EDA2 (Kroger Members Dataset)
 
 # 📊 Exploratory Data Analysis on Kroger Members Dataset
 
